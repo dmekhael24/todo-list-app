@@ -11,7 +11,8 @@ It lets you add and remove tasks with a user-friendly graphical interface.
 
 ## 🖼️ Screenshot
 
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot](Screenshot.png)
+
 
 ## 🚀 How to Run
 
